@@ -1,40 +1,24 @@
-# Simple Gallery
+# My Photos
 
 <img alt="Logo" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="80" />
 
-A gallery for viewing photos and videos.
+Một nơi lưu trữ ảnh và video
+Dưới đây là các tính năng của nó: 
+1. Tìm kiếm  
+2. Trình chiếu  
+3. Hỗ trợ notch 
+4. Ghim các thư mục vào đầu 
+5. Lọc các tệp phương tiện theo loại 
+6. Thùng rác để phục hồi tệp dễ dàng 
+7. Khóa định hướng chế độ xem toàn màn hình  
+8. Đánh dấu các tệp yêu thích để dễ dàng truy cập 
+9. Đóng phương tiện toàn màn hình nhanh bằng cử chỉ xuống 
+10. Trình chỉnh sửa để sửa đổi hình ảnh và áp dụng bộ lọc
+11. Bảo vệ mật khẩu để bảo vệ các mục bị ẩn hoặc toàn bộ ứng dụng
+12. Thay đổi số lượng cột hình thu nhỏ bằng cử chỉ hoặc nút menu 
+13. Các hành động dưới cùng có thể tùy chỉnh ở chế độ xem toàn màn hình để truy cập nhanh  
+14. Hiển thị chi tiết mở rộng trên phương tiện toàn màn hình với các thuộc tính tệp mong muốn  
+15. Một số cách khác nhau để sắp xếp hoặc nhóm các mục, tăng dần và giảm dần 
+16. Ẩn các thư mục (cũng ảnh hưởng đến các ứng dụng khác), ngoại trừ các thư mục (chỉ ảnh hưởng đến Thư viện đơn giản). Cần có sự cho phép của dấu vân tay để khóa khả năng hiển thị của mục bị ẩn, toàn bộ a pp hoặc bảo vệ các tập tin khỏi bị xóa.
 
-A highly customizable gallery capable of displaying many different image and video types including SVGs, RAWs, panoramic photos and videos.
 
-It is open source, contains no ads or unnecessary permissions.
-
-Let's list some of its features worth mentioning:
-1. Search
-2. Slideshow
-3. Notch support
-4. Pinning folders to the top
-5. Filtering media files by type
-6. Recycle bin for easy file recovery
-7. Fullscreen view orientation locking
-8. Marking favorite files for easy access
-9. Quick fullscreen media closing with down gesture
-10. An editor for modifying images and applying filters
-11. Password protection for protecting hidden items or the whole app
-12. Changing the thumbnail column count with gestures or menu buttons
-13. Customizable bottom actions at the fullscreen view for quick access
-14. Showing extended details over fullscreen media with desired file properties
-15. Several different ways of sorting or grouping items, both ascending and descending
-16. Hiding folders (affects other apps too), excluding folders (affects only Simple Gallery)
-
-The fingerprint permission is needed for locking either hidden item visibility, the whole app, or protecting files from being deleted.
-
-This app is just one piece of a bigger series of apps. You can find the rest of them at https://www.simplemobiletools.com
-
-<a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery.pro'><img src='https://simplemobiletools.com/assets/images/google-play.png' alt='Get it on Google Play' height='45' /></a>
-<a href='https://f-droid.org/packages/com.simplemobiletools.gallery.pro'><img src='https://simplemobiletools.com/assets/images/f-droid.png' alt='Get it on F-Droid' height='45' /></a>
-
-<div style="display:flex;">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/app_1.jpg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/app_3.jpg" width="30%">
-</div>
