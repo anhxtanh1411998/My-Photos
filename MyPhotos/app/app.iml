@@ -25,7 +25,7 @@
       </configuration>
     </facet>
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="C:\Users\Admin\AndroidStudioProjects\MyPhotos\app\src\debug\kotlin;C:\Users\Admin\AndroidStudioProjects\MyPhotos\app\src\debug\java;C:\Users\Admin\AndroidStudioProjects\MyPhotos\app\src\release\kotlin;C:\Users\Admin\AndroidStudioProjects\MyPhotos\app\src\release\java;C:\Users\Admin\AndroidStudioProjects\MyPhotos\app\src\debugAndroidTest\kotlin;C:\Users\Admin\AndroidStudioProjects\MyPhotos\app\src\debugUnitTest\kotlin;C:\Users\Admin\AndroidStudioProjects\MyPhotos\app\src\releaseUnitTest\kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="C:\Users\Admin\AndroidStudioProjects\My-Photos\MyPhotos\app\src\debug\kotlin;C:\Users\Admin\AndroidStudioProjects\My-Photos\MyPhotos\app\src\debug\java;C:\Users\Admin\AndroidStudioProjects\My-Photos\MyPhotos\app\src\release\kotlin;C:\Users\Admin\AndroidStudioProjects\My-Photos\MyPhotos\app\src\release\java;C:\Users\Admin\AndroidStudioProjects\My-Photos\MyPhotos\app\src\debugAndroidTest\kotlin;C:\Users\Admin\AndroidStudioProjects\My-Photos\MyPhotos\app\src\debugUnitTest\kotlin;C:\Users\Admin\AndroidStudioProjects\My-Photos\MyPhotos\app\src\releaseUnitTest\kotlin">
         <compilerSettings>
           <option name="additionalArguments" value="-Xallow-no-source-files" />
         </compilerSettings>
