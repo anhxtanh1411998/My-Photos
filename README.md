@@ -3,6 +3,7 @@
 <img alt="Logo" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="80" />
 
 Một nơi lưu trữ ảnh và video
+
 Dưới đây là các tính năng của nó: 
 1. Tìm kiếm  
 2. Trình chiếu  
@@ -19,6 +20,4 @@ Dưới đây là các tính năng của nó:
 13. Các hành động dưới cùng có thể tùy chỉnh ở chế độ xem toàn màn hình để truy cập nhanh  
 14. Hiển thị chi tiết mở rộng trên phương tiện toàn màn hình với các thuộc tính tệp mong muốn  
 15. Một số cách khác nhau để sắp xếp hoặc nhóm các mục, tăng dần và giảm dần 
-16. Ẩn các thư mục (cũng ảnh hưởng đến các ứng dụng khác), ngoại trừ các thư mục (chỉ ảnh hưởng đến Thư viện đơn giản). Cần có sự cho phép của dấu vân tay để khóa khả năng hiển thị của mục bị ẩn, toàn bộ a pp hoặc bảo vệ các tập tin khỏi bị xóa.
-
-
+16. Ẩn các thư mục
