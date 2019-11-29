@@ -21,3 +21,10 @@ Dưới đây là các tính năng của nó:
 14. Hiển thị chi tiết mở rộng trên phương tiện toàn màn hình với các thuộc tính tệp mong muốn  
 15. Một số cách khác nhau để sắp xếp hoặc nhóm các mục, tăng dần và giảm dần 
 16. Ẩn các thư mục
+
+
+Để chạy được project tạo một text file có tên keystore.properties và để trong file chính của ứng dụng với nội dung:
+  storePassword=storePassword
+  keyPassword=keyPassword
+  keyAlias=keyAlias
+  storeFile=storeFile  
