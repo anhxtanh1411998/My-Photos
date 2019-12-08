@@ -16,12 +16,7 @@ Dưới đây là các tính năng của nó:
 
 
 Để chạy được project tạo một text file có tên keystore.properties và để trong file chính của ứng dụng với nội dung:
-<<<<<<< HEAD
-  storePassword=storePassword 
-  keyPassword=keyPassword 
-  keyAlias=keyAlias
-  storeFile=storeFile  
-=======
+
       storePassword=storePassword 
       keyPassword=keyPassword 
       keyAlias=keyAlias
